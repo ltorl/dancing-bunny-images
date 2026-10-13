@@ -1,6 +1,8 @@
 # dancing-bunny-images
 
-Square cover images for every game in [ltorl/dancing-bunny-games](https://github.com/ltorl/dancing-bunny-games).
+games images   for:  https://github.com/ltorl/dancing-bunny-games
+               and:  https://github.com/ltorl/dancing-bunny 
+
 
 - One file per game: `<game>.png` matches `<game>.html` in the games repo.
 - 256×256 palette PNGs, compressed.
