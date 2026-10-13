@@ -1,7 +1,7 @@
 # dancing-bunny-images
 
 games images   for:  https://github.com/ltorl/dancing-bunny-games
-               and:  https://github.com/ltorl/dancing-bunny 
+               and  https://github.com/ltorl/dancing-bunny 
 
 
 - One file per game: `<game>.png` matches `<game>.html` in the games repo.
